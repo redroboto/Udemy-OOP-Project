@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
 <body>
-	<nav class="navbar navbar-expand-md">
+	<nav class="navbar navbar-expand-md navbar-light bg-light">
 		<div class="navbar-header">
 			<a class="navbar-brand" href="#">Shareboard</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">

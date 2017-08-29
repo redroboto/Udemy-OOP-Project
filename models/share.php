@@ -5,6 +5,10 @@ class ShareModel extends Model {
 		$rows = $this->resultsSet();
 		return $rows;
 	}
+
+	public function add(){
+		return;
+	}
 }
 
  ?>

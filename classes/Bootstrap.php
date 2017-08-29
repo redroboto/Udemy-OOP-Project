@@ -16,7 +16,7 @@ class Bootstrap{
 			$this->controller = $this->request['controller'];
 		}
 
-		//check if the request has a controller; if not, set to index
+		//check if the request has an action; if not, set to index
 		if($this->request['action'] == ""){
 			$this->action = 'index';
 		}
